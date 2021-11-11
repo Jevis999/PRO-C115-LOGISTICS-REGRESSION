@@ -1,1 +1,2 @@
-# PRO-C115-LOGISTICS-REGRESSION
+# PRO115LogisticRegression
+PRO115LogisticRegression
